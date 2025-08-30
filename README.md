@@ -1,15 +1,15 @@
-# 🛒 Dashboard de Ventas - Supermercado  
+# Dashboard de Ventas - Supermercado  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit&logoColor=white)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen)  
 
-Dashboard interactivo desarrollado en **Streamlit** para analizar las ventas de un supermercado ficticio.  
+Dashboard interactivo desarrollado en **Streamlit** para analizar las ventas de un supermercado.  
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Fuente**: Datos inventados.  
 - **Variables**:
   - `fecha`: día de la venta  
@@ -21,14 +21,14 @@ Dashboard interactivo desarrollado en **Streamlit** para analizar las ventas de 
 
 ---
 
-## 📈 Funcionalidades
+## Funcionalidades
 - Filtro por producto.  
 - Gráfico de ventas mensuales.  
 - Gráfico de participación de categorías.  
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python  
 - Pandas  
 - Matplotlib, Seaborn  
@@ -36,7 +36,7 @@ Dashboard interactivo desarrollado en **Streamlit** para analizar las ventas de 
 
 ---
 
-## 🛠️ Cómo usar este proyecto
+## Cómo usar este proyecto
 ```bash
 git clone https://github.com/usuario/supermarket-dashboard.git
 cd supermarket-dashboard
@@ -46,5 +46,5 @@ streamlit run src/dashboard.py
 
 ---
 
-## 📜 Licencia
+## Licencia
 Este proyecto se distribuye bajo licencia **MIT**.
